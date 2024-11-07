@@ -1,3 +1,5 @@
+import json2html from "./json2html.js";
+
 export default function json2html(data) {
   const columns = ["Name", "Age", "Gender"];
   
